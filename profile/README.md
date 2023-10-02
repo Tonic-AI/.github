@@ -8,6 +8,7 @@ At Team Tonic, we're not your average tech team. We're a group of passionate eng
 ## Part 1: Improve Auto-Gpt - Priority area for improvements:
 
 - Improve 🤖autoreply using 🛺autogen library
+- 👨🏻‍👩🏾‍👧🏼‍👦🏼multiuser
 - 🤹🏻‍♀️multimodal input
 - multimedia 📺output
 - 👨🏻‍👩🏾‍👧🏼‍👦🏼multi agent environments using autogen library
