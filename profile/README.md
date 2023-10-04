@@ -1,6 +1,6 @@
-## Team Tonic
-
-# 🤖🤖 Welcome to Team Tonic! 🤖🤖
+# 👋🏻 Welcome to 
+#### Custom Library User Browser - Multi Agent Tool Environment 
+# 🤖🤖 CLUB-MATE - AutoGPT 🤖🤖
 
 ### About Us
 At Team Tonic, we're not your average tech team. We're a group of passionate engineers and AI enthusiasts who are dedicated to pushing the boundaries of what autonomous agents can achieve. Our mission? To build AI-powered bots that not only crush performance benchmarks but also outperform anything you've ever seen before. 
