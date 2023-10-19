@@ -1,30 +1,54 @@
-# 👋🏻 Welcome to 
-#### Custom Library User Browser - Multi Agent Tool Environment 
-# 🤖🤖 CLUB-MATE - AutoGPT 🤖🤖
+[![Welcome to Team Tonic Arena Hacks! 🚀🎉](https://img.youtube.com/vi/ttZSk7rmFvc/0.jpg)](https://youtu.be/ttZSk7rmFvc?si=ekC3r_pafChZro0b&t=141)
+ [![Let's build the future of AI together! 🚀🤖](https://discordapp.com/api/guilds/1109943800132010065/widget.png)](https://discord.gg/GWpVpekp)
+# Welcome to PluripotentAGI's PolyGPT-alpha! 🚀🎉
 
-### About Us
-At Team Tonic, we're not your average tech team. We're a group of passionate engineers and AI enthusiasts who are dedicated to pushing the boundaries of what autonomous agents can achieve. Our mission? To build AI-powered bots that not only crush performance benchmarks but also outperform anything you've ever seen before. 
+# PolyGPT Project
 
-## Part 1: Improve Auto-Gpt - Priority area for improvements:
+👋 Welcome to the PolyGPT project! 🚀 PolyGPT is an ambitious undertaking aimed at developing an optimal Bayesian agent with the ability to self-learn, self-grow, and self-evolve 🌱🧠 using cutting-edge techniques such as Bayesian deep learning 📊🧮 and hyperbolic deep learning 🌐. In this README, we'll provide an overview of the project's goals and vision. 🌟
 
-- Improve 🤖autoreply using 🛺autogen library
-- 👨🏻‍👩🏾‍👧🏼‍👦🏼multiuser
-- 🤹🏻‍♀️multimodal input
-- multimedia 📺output
-- 👨🏻‍👩🏾‍👧🏼‍👦🏼multi agent environments using autogen library
-- New 📎interface using next.js / gradio
-- Improve 💭Tree-of-thought in autogpt logic
+**Project Goals 🎯**
+PolyGPT's primary objective is to create an advanced AI agent capable of making optimal decisions 🤖📈 based on the information it possesses. Here are the key objectives:
 
-**Features:**
-- 💪🏻 Outclassing BeeBot: We aim to beat the benchmarks set by beebot and more.
-- 🧠 More Popular: It's more fun for folks when they can get multimedia and use cameras , mics, and multifile input.
-- 💬 Decision Support: Autogpt should be useful to its user to make real world decisions.
+**Short-Term Goals 📅**
+Initially, our focus is on participating in hackathons 💻🏆 to generate code 💻 and generate revenue 💰. This will provide us with the resources needed for further research and development. 💡🔬
 
-## Project 2: Evaluation Environment
+**Long-Term Vision 🚀**
+The ultimate goal is to transform PolyGPT into an optimal Bayesian agent 🌌🤯, a concept inspired by Nick Bostrom's book, "Superintelligence" 📚. An optimal Bayesian agent is one that can update its beliefs perfectly 🧠🔄 according to Bayesian's theorem 📊 when presented with new evidence 🆕.
 
-- 🌐 Following the Guidelines
-- 🤓 Testing Autogpt next to community agents
-- 🚀 Proposing future testing.
+**Bayesian and Hyperbolic Deep Learning 🧬🌀**
+To achieve this vision, we aim to leverage Bayesian deep learning 📈🔍 and hyperbolic deep learning 🌐🧠 techniques to embed information in hyperbolic space 🚀🌌. This approach can offer better ways to understand and process data. 📊🗂️
+
+**Self-Improvement 🔄💡**
+Just like true AGI, the core of PolyGPT is its ability to self-learn 📚🧠, self-grow 🌱📈, and self-evolve 🔄🤖. It will continually refine its understanding and beliefs as it gains more information and experiences. 🌟📖
+
+**Why PolyGPT? ❓**
+The motivation behind PolyGPT is to explore avenues beyond the conventional approaches to AGI. While many are focused on large language models (LLMs) 📚📏 and optimization techniques 📈🛠️, we aim to investigate the potential of optimal Bayesian agents as a pathway to AGI. 🌐🤖🚀
+
+### [![Let's build the future of AI together! 🚀🤖](https://discordapp.com/api/guilds/1109943800132010065/widget.png)](https://discord.gg/GWpVpekp)
+
+## What We Do
+
+- Benchmarking
+- 🌟PolyGPT : Pluripotent AGI-style agent of agents that can build and deploy its own stack, go online and produce multi file multi folder multi media outputs using any tool and pipeline ! 
+
+## Getting Started
+Before you start contributing to "PolyGPT-Alpha," make sure you have the following prerequisites:
+
+- Python (version specified in requirements.txt) 🐍
+- Git for version control 📜
+- A GitHub account 🌐
+
+
+## Open a Discussion 💪
+
+We're thrilled to have you join our community of innovators. [Open a discussion here](https://github.com/orgs/team-tonic-arena-hacks/discussions) . Let's work together !
+
+## Join US
+
+Get started now and unleash your creativity! If you have any questions or need assistance, feel free to [reach out to us](https://discord.gg/RWQTHNqUYH). Happy hacking! 🚀🌟
+
+
+ [![Let's build the future of AI together! 🚀🤖](https://discordapp.com/api/guilds/1109943800132010065/widget.png)](https://discord.gg/GWpVpekp)
 
 ## Join the Conversation
 Want to be part of our journey or have questions about our projects? Join our Discord server and connect with us!
