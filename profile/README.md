@@ -10,10 +10,11 @@
 - Benchmarking
 - 🌟PolyGPT : Pluripotent AGI-style agent of agents that can build and deploy its own stack, go online and produce multi file multi folder multi media outputs using any tool and pipeline !
 
-### Join us: 
+## Join us: 
 
 [![Welcome to Team Tonic Arena Hacks! 🚀🎉](https://img.youtube.com/vi/ttZSk7rmFvc/0.jpg)](https://youtu.be/ttZSk7rmFvc?si=ekC3r_pafChZro0b&t=141)
  [![Let's build the future of AI together! 🚀🤖](https://discordapp.com/api/guilds/1109943800132010065/widget.png)](https://discord.gg/GWpVpekp)
+
 # Welcome to Tonic AI's PolyGPT-Alpha! 🚀🎉
 
 ### 🌍🤖🏭 Chapter 1: The Birth of PolyGPT-Alpha DAO
