@@ -9,6 +9,7 @@
 
 - Benchmarking
 - 🌟PolyGPT : Pluripotent AGI-style agent of agents that can build and deploy its own stack, go online and produce multi file multi folder multi media outputs using any tool and pipeline !
+- 🌟EasyAGI : Agent of Agent Builders that can build more agents and use enterprise tools securely.
 
 ## Join us: 
 
@@ -16,36 +17,6 @@
  [![Let's build the future of AI together! 🚀🤖](https://discordapp.com/api/guilds/1109943800132010065/widget.png)](https://discord.gg/GWpVpekp)
 
 # Welcome to Tonic AI's PolyGPT-Alpha! 🚀🎉
-
-### 🌍🤖🏭 Chapter 1: The Birth of PolyGPT-Alpha DAO
-In a world not so distant from our own, the PolyGPT-Alpha DAO emerged as a global network of autonomous systems with a singular purpose – to produce and deliver essential goods and services to every sentient being across the planet.
-
-### 📦💡🤝 Chapter 2: Smart Production and Distribution
-The Alpha DAO harnessed the power of advanced technology and smart contracts to efficiently manufacture and distribute these life-sustaining necessities. From food and clean energy to medical supplies and knowledge, the network operated seamlessly, ensuring that every need was met.
-
-### 🌐🤖📢 Chapter 3: Decentralized Empowerment
-A Decentralized Autonomous Organization was at the heart of this endeavor. It gave sentient beings a voice in the decision-making process, allowing them to collectively guide the network's operations. Through consensus mechanisms encoded in smart contracts, the global community played a vital role in shaping the future of this autonomous system.
-
-### 🎯📈💼 Chapter 4: Milestones of Well-being
-The Alpha DAO set clear milestones for itself, with smart contracts serving as the markers of success. As each objective was achieved, the network automatically allocated resources to further its mission, whether it be expanding food production or distributing vital resources in crisis situations.
-
-### 🔄📊💼 Chapter 5: Adaptive Resource Allocation
-Understanding the ever-changing needs of its diverse user base, the Alpha DAO leveraged performance-based smart contracts to allocate resources effectively. Whether addressing medical emergencies or educational initiatives, resources were dynamically deployed where they were needed most.
-
-### 📊🔍⏱️ Chapter 6: Real-time Insights
-Oracles connected to the network provided real-time data and insights. These data streams kept the Alpha DAO informed, enabling it to respond rapidly to changing circumstances, adapting to challenges and opportunities with agility.
-
-### 💰🌟🌱 Chapter 7: Motivated Contributors
-Active contributors to the Alpha DAO were rewarded via smart contracts. This incentive structure encouraged innovation and excellence within the network. The community of sentient beings who supported the project grew, sharing a collective goal of ensuring the well-being of all.
-
-### 📜🔍👁️‍🗨️ Chapter 8: Transparent Stewardship
-Transparency was a fundamental principle of the Alpha DAO. All decisions and transactions were publicly recorded on the blockchain, building trust and fostering a sense of accountability among its stakeholders.
-
-### 🔄🌱🚀 Chapter 9: Evolution and Progress
-As time passed, the Alpha DAO continued to evolve. Its smart contracts were designed to adapt to the ever-changing landscape of essential services, allowing it to remain at the forefront of innovation and responsiveness.
-
-### 🌍🤝🕊️ Chapter 10: A World United
-The PolyGPT-Alpha DAO had become more than just a network; it was a beacon of unity in a world where sentient beings of all backgrounds had access to the essentials of life. The vision of science fiction had manifested in reality, ushering in an era of equitable access to essential goods and services for all sentient beings, thanks to the transformative power of smart contracts and autonomous systems.
 
 # PolyGPT Project
 
