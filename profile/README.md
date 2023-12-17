@@ -1,8 +1,8 @@
 ## Meet the Team
 
 - Princepts (CEO)
+- KBVE/h0lybyte (CTO - interim)
 - Tonic (CIO)
-- COO - 'Hiring'!
 - Lead Developper - 'Hiring'!
 
 ## What We Do
