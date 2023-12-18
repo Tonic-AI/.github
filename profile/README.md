@@ -2,6 +2,7 @@
 
 - Princepts (CEO)
 - KBVE/h0lybyte (CTO - interim)
+- Hangar/Killindev (CTO - Interim)
 - Mike (Services - interim)
 - Tonic (CIO)
 - Lead Developper - 'Hiring'!
