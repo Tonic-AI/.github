@@ -1,11 +1,12 @@
 ## Meet the Team
 
 - Princepts (CEO)
+- open_v0/n_raiden (CTO - interim)
 - KBVE/h0lybyte (CTO - interim)
 - Hangar/killind-dev (CTO - Interim)
-- Mike (Services - interim)
+- Mike (CTO - interim)
 - Tonic (CIO)
-- Lead Developper - 'Hiring'!
+- Lead Developpers - 'Hiring'!
 
 ## What We Do
 
