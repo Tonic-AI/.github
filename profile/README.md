@@ -1,6 +1,6 @@
 ## Meet the Team
 
-- Princepts (CEO)
+- Princepts (CTO - interim)
 - open_v0/n_raiden (CTO - interim)
 - lowres/not-lain (CTO - interim)
 - KBVE/h0lybyte (CTO - interim)
