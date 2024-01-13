@@ -2,9 +2,10 @@
 
 - Princepts (CEO)
 - open_v0/n_raiden (CTO - interim)
+- lowres/not-lain (CTO - interim)
 - KBVE/h0lybyte (CTO - interim)
 - Hangar/killind-dev (CTO - Interim)
-- Mike (CTO - interim)
+- meta-introspector/Mike (CTO - interim)
 - Tonic (CIO)
 - Lead Developpers - 'Hiring'!
 
