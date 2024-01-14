@@ -1,19 +1,27 @@
 ## Meet the Team
 
 - Princepts (CTO - interim)
-- open_v0/n_raiden (CTO - interim)
 - lowres/not-lain (CTO - interim)
-- KBVE/h0lybyte (CTO - interim)
-- Hangar/killind-dev (CTO - Interim)
-- meta-introspector/Mike (CTO - interim)
-- Tonic (CIO)
+- Goose (Investor Relations - interim)
+- Kara (CTO - interim)
+- Tonic (CIO + interim CEO)
 - Lead Developpers - 'Hiring'!
+- CEO - 'Hiring'!
+
+## Meet the board
+
+- open_v0/n_raiden
+- KBVE/h0lybyte
+- meta-introspector/Mike
+- Hangar/killind-dev (CTO - Interim)
 
 ## What We Do
 
 - Benchmarking
-- 🌟PolyGPT : Pluripotent AGI-style agent of agents that can build and deploy its own stack, go online and produce multi file multi folder multi media outputs using any tool and pipeline !
+- 🌟Agentics : Pluripotent AGI-style agents of agents that can build and deploy their own stack, go online and produce multi file multi folder multi media outputs using any tool and pipeline !
 - 🌟EasyAGI : Agent of Agent Builders that can build more agents and use enterprise tools securely.
+- 🌟DataTonic : DataCapable Consultant AGI
+- 🌟MultiTonic : secure application threads to produce rich business consulting outputs
 
 ## Join us: 
 
