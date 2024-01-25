@@ -5,6 +5,7 @@
 - Goose (Investor Relations - interim)
 - Kara (CTO - interim)
 - Tonic (CIO + interim CEO)
+- Grunaura (CTO - interim)
 - Lead Developpers - 'Hiring'!
 - CEO - 'Hiring'!
 
@@ -13,7 +14,7 @@
 - open_v0/n_raiden
 - KBVE/h0lybyte
 - meta-introspector/Mike
-- Hangar/killind-dev (CTO - Interim)
+- Hangar/killind-dev
 
 ## What We Do
 
