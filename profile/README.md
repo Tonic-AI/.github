@@ -1,60 +1,19 @@
-## Meet the Team
-
-- Princepts (CTO - interim)
-- lowres/not-lain (CTO - interim)
-- Goose (Investor Relations - interim)
-- Kara (CTO - interim)
-- Tonic (CIO + interim CEO)
-- Grunaura (CTO - interim)
-- Lead Developpers - 'Hiring'!
-- CEO - 'Hiring'!
-
-## Meet the board
-
-- open_v0/n_raiden
-- KBVE/h0lybyte
-- meta-introspector/Mike
-- Hangar/killind-dev
-
 ## What We Do
 
 - Benchmarking
-- 🌟Agentics : Pluripotent AGI-style agents of agents that can build and deploy their own stack, go online and produce multi file multi folder multi media outputs using any tool and pipeline !
+- 🌟MultiTonic : Pluripotent AGI-style agents of agents that can build and deploy their own stack, go online and produce multi file multi folder multi media outputs using any tool and pipeline !
 - 🌟EasyAGI : Agent of Agent Builders that can build more agents and use enterprise tools securely.
 - 🌟DataTonic : DataCapable Consultant AGI
-- 🌟MultiTonic : secure application threads to produce rich business consulting outputs
+- 🌟SciTonic : secure application threads to produce technical business operations outputs.
 
 ## Join us: 
 
 [![Welcome to Team Tonic Arena Hacks! 🚀🎉](https://img.youtube.com/vi/ttZSk7rmFvc/0.jpg)](https://youtu.be/ttZSk7rmFvc?si=ekC3r_pafChZro0b&t=141)
  [![Let's build the future of AI together! 🚀🤖](https://discordapp.com/api/guilds/1109943800132010065/widget.png)](https://discord.gg/GWpVpekp)
 
-# Welcome to Tonic AI's PolyGPT-Alpha! 🚀🎉
-
-# PolyGPT Project
-
-👋 Welcome to the PolyGPT project! 🚀 PolyGPT is an ambitious undertaking aimed at developing an optimal Bayesian agent with the ability to self-learn, self-grow, and self-evolve 🌱🧠 using cutting-edge techniques such as Bayesian deep learning 📊🧮 and hyperbolic deep learning 🌐. In this README, we'll provide an overview of the project's goals and vision. 🌟
-
-**Project Goals 🎯**
-PolyGPT's primary objective is to create an advanced AI agent capable of making optimal decisions 🤖📈 based on the information it possesses. Here are the key objectives:
-
-**Short-Term Goals 📅**
-Initially, our focus is on participating in hackathons 💻🏆 to generate code 💻 and generate revenue 💰. This will provide us with the resources needed for further research and development. 💡🔬
-
-**Long-Term Vision 🚀**
-The ultimate goal is to transform PolyGPT into an optimal Bayesian agent 🌌🤯, a concept inspired by Nick Bostrom's book, "Superintelligence" 📚. An optimal Bayesian agent is one that can update its beliefs perfectly 🧠🔄 according to Bayesian's theorem 📊 when presented with new evidence 🆕.
-
-**Bayesian and Hyperbolic Deep Learning 🧬🌀**
-To achieve this vision, we aim to leverage Bayesian deep learning 📈🔍 and hyperbolic deep learning 🌐🧠 techniques to embed information in hyperbolic space 🚀🌌. This approach can offer better ways to understand and process data. 📊🗂️
-
-**Self-Improvement 🔄💡**
-Just like true AGI, the core of PolyGPT is its ability to self-learn 📚🧠, self-grow 🌱📈, and self-evolve 🔄🤖. It will continually refine its understanding and beliefs as it gains more information and experiences. 🌟📖
-
-**Why PolyGPT? ❓**
-The motivation behind PolyGPT is to explore avenues beyond the conventional approaches to AGI. While many are focused on large language models (LLMs) 📚📏 and optimization techniques 📈🛠️, we aim to investigate the potential of optimal Bayesian agents as a pathway to AGI. 🌐🤖🚀
+# Welcome to Tonic AI ! 🚀🎉
 
 ### [![Let's build the future of AI together! 🚀🤖](https://discordapp.com/api/guilds/1109943800132010065/widget.png)](https://discord.gg/GWpVpekp)
-
 
 # Developpers
 
